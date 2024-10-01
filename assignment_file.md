@@ -1,1 +1,6 @@
-
+![Screenshot_1-10-2024_131132_colab research google com](https://github.com/user-attachments/assets/d83e5657-1be4-4efe-ae5f-4634438b1425)
+![Screenshot_1-10-2024_13420_console cloud google com](https://github.com/user-attachments/assets/935e7bb2-3fd8-4402-ad61-5f5a29b19b32)
+![Screenshot_1-10-2024_123920_console cloud google com](https://github.com/user-attachments/assets/2f905ab6-dbc9-48c0-801d-4ffda17c08c6)
+![Screenshot_1-10-2024_12395_console cloud google com](https://github.com/user-attachments/assets/30c58526-1e98-4c4f-8f8b-4511a6161186)
+![Screenshot_1-10-2024_12353_console cloud google com](https://github.com/user-attachments/assets/e4212c7f-f6e2-439c-9885-d66289cdce02)
+![Screenshot_1-10-2024_123054_console cloud google com](https://github.com/user-attachments/assets/4bd2d53c-5430-4ad0-b714-0a5c14d8d8cc)
